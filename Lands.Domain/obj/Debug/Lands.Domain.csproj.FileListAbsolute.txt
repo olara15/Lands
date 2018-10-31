@@ -1,0 +1,6 @@
+C:\Users\oscar.lara\Desktop\Xamarin\Projects\Lands\Lands.Domain\bin\Debug\Lands.Domain.dll
+C:\Users\oscar.lara\Desktop\Xamarin\Projects\Lands\Lands.Domain\bin\Debug\Lands.Domain.pdb
+C:\Users\oscar.lara\Desktop\Xamarin\Projects\Lands\Lands.Domain\obj\Debug\Lands.Domain.csprojAssemblyReference.cache
+C:\Users\oscar.lara\Desktop\Xamarin\Projects\Lands\Lands.Domain\obj\Debug\Lands.Domain.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lara\Desktop\Xamarin\Projects\Lands\Lands.Domain\obj\Debug\Lands.Domain.dll
+C:\Users\oscar.lara\Desktop\Xamarin\Projects\Lands\Lands.Domain\obj\Debug\Lands.Domain.pdb
